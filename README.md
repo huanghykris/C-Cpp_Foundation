@@ -9,11 +9,6 @@
 
 
 
-
-<div align="center">
-    <img src="https://github.com/Worthy-Wang/offerMachine/blob/main/images/beauty.png"  width="250px">
-</div>
-
 <br>
 
 -------------
